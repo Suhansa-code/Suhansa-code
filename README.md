@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhansa Kashmira</h1>
-<h3 align="center">A passionate DevOps</h3>
+<h3 align="center">A passionate DevOps System Engineer Full stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhansa-code&label=Profile%20views&color=0e75b6&style=flat" alt="suhansa-code" /> </p>
 
@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development , Frontend Development**
+- 🌱 I’m currently learning **Backend Development , Frontend Development , AWS , DevOps Tools**
+
+- 👯 I’m looking to collaborate on [DevOps](Full stack Development)
+
+- 👨‍💻 All of my projects are available at [https://suhansa-s-portfolio.vercel.app/](https://suhansa-s-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, Docker, python**
 
@@ -15,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/suhansa-kashmira-998a942b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suhansa-kashmira-998a942b6" height="30" width="40" /></a>
 <a href="https://fb.com/suhansa kashmira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhansa kashmira" height="30" width="40" /></a>
 <a href="https://instagram.com/suhansa kashmira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhansa kashmira" height="30" width="40" /></a>
 <a href="https://discord.gg/suhansa kashmira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suhansa kashmira" height="30" width="40" /></a>
